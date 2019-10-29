@@ -26,7 +26,8 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  ENFIELD_TENNIS_ACADEMY[1]
+  puts matrix
+  # ENFIELD_TENNIS_ACADEMY[1]
   # Return the matrix's content at row and column - equal to "Lyle"
 end
 
